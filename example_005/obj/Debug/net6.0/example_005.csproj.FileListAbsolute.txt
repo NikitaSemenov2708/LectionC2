@@ -1,0 +1,16 @@
+C:\Users\Home\Desktop\Разработчик\Знакомство с языком программирования С#\Lection2\example_005\bin\Debug\net6.0\example_005.exe
+C:\Users\Home\Desktop\Разработчик\Знакомство с языком программирования С#\Lection2\example_005\bin\Debug\net6.0\example_005.deps.json
+C:\Users\Home\Desktop\Разработчик\Знакомство с языком программирования С#\Lection2\example_005\bin\Debug\net6.0\example_005.runtimeconfig.json
+C:\Users\Home\Desktop\Разработчик\Знакомство с языком программирования С#\Lection2\example_005\bin\Debug\net6.0\example_005.dll
+C:\Users\Home\Desktop\Разработчик\Знакомство с языком программирования С#\Lection2\example_005\bin\Debug\net6.0\ref\example_005.dll
+C:\Users\Home\Desktop\Разработчик\Знакомство с языком программирования С#\Lection2\example_005\bin\Debug\net6.0\example_005.pdb
+C:\Users\Home\Desktop\Разработчик\Знакомство с языком программирования С#\Lection2\example_005\obj\Debug\net6.0\example_005.GlobalUsings.g.cs
+C:\Users\Home\Desktop\Разработчик\Знакомство с языком программирования С#\Lection2\example_005\obj\Debug\net6.0\example_005.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Разработчик\Знакомство с языком программирования С#\Lection2\example_005\obj\Debug\net6.0\example_005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\Разработчик\Знакомство с языком программирования С#\Lection2\example_005\obj\Debug\net6.0\example_005.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Разработчик\Знакомство с языком программирования С#\Lection2\example_005\obj\Debug\net6.0\example_005.AssemblyInfo.cs
+C:\Users\Home\Desktop\Разработчик\Знакомство с языком программирования С#\Lection2\example_005\obj\Debug\net6.0\example_005.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Разработчик\Знакомство с языком программирования С#\Lection2\example_005\obj\Debug\net6.0\example_005.dll
+C:\Users\Home\Desktop\Разработчик\Знакомство с языком программирования С#\Lection2\example_005\obj\Debug\net6.0\ref\example_005.dll
+C:\Users\Home\Desktop\Разработчик\Знакомство с языком программирования С#\Lection2\example_005\obj\Debug\net6.0\example_005.pdb
+C:\Users\Home\Desktop\Разработчик\Знакомство с языком программирования С#\Lection2\example_005\obj\Debug\net6.0\example_005.genruntimeconfig.cache
